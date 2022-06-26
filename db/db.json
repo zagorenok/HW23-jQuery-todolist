@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "buy milk",
+      "complited": false
+    },
+    {
+      "task": "buy meat",
+      "complited": false,
+      "id": 6
+    },
+    {
+      "task": "buy sugar",
+      "complited": false,
+      "id": 9
+    },
+    {
+      "task": "new task",
+      "status": false,
+      "id": 10
+    }
+  ]
+}
